@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+[![My Skills](https://skillicons.dev/icons?i=html,css,ae,bash,c,docker,django,git,linux,nginx,ps,py,qt,sqlite,bots)](https://skillicons.dev)
+
+<!--Cancel changes
 **FruitPassion/FruitPassion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
