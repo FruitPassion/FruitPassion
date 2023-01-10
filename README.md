@@ -1,8 +1,6 @@
+![Header_Image](https://imgur.com/TMkhSXY.png)
+
 ### Hi there 👋
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,ae,bash,c,docker,django,git,linux,nginx,ps,py,qt,sqlite,bots)](https://skillicons.dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FruitPassion&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Cancel changes
 **FruitPassion/FruitPassion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,ae,bash,c,docker,django,git,linux,nginx,ps,py,qt,sqlite,bots)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FruitPassion&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
