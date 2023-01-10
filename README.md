@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@b9d882a9-d94b-482a-9d1f-8082b3c0f003/0a1ff53d-d500-4b18-97da-c3abbeefe6a8.svg"></embed></figure>
-<!--END_SECTION:waka-->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,ae,bash,c,docker,django,git,linux,nginx,ps,py,qt,sqlite,bots)](https://skillicons.dev)
 
