@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 name: Waka Readme
 
 on:
@@ -34,10 +35,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-<!--END_SECTION:waka-->
 
-
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) Test []
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,ae,bash,c,docker,django,git,linux,nginx,ps,py,qt,sqlite,bots)](https://skillicons.dev)
 
