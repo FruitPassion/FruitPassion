@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FruitPassion&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Footer_Image](https://imgur.com/5f4uRW6.png)
+
