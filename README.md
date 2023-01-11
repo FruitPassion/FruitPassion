@@ -2,25 +2,9 @@
 
 ### Hi there 👋
 
-<!--Cancel changes
-**FruitPassion/FruitPassion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Langages les plus utilisés cette année
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<figure><embed src="https://wakatime.com/share/@b9d882a9-d94b-482a-9d1f-8082b3c0f003/e1e64229-9b35-4309-8884-d5e2e5b028e0.svg"></embed></figure>
-
-![test](https://wakatime.com/share/@b9d882a9-d94b-482a-9d1f-8082b3c0f003/e1e64229-9b35-4309-8884-d5e2e5b028e0.svg)
+![year-language]([https://wakatime.com/share/@b9d882a9-d94b-482a-9d1f-8082b3c0f003/e1e64229-9b35-4309-8884-d5e2e5b028e0.svg](https://wakatime.com/share/@b9d882a9-d94b-482a-9d1f-8082b3c0f003/dd4bf68f-1d45-43c7-adcb-99fe3c140eed.svg))
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,ae,bash,c,docker,django,git,linux,nginx,ps,py,qt,sqlite,bots)](https://skillicons.dev)
 
