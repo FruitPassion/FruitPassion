@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/b9d882a9-d94b-482a-9d1f-8082b3c0f003.svg)](https://wakatime.com/@b9d882a9-d94b-482a-9d1f-8082b3c0f003)
 
 
 ![year-language]([https://wakatime.com/share/@b9d882a9-d94b-482a-9d1f-8082b3c0f003/e1e64229-9b35-4309-8884-d5e2e5b028e0.svg](https://wakatime.com/share/@b9d882a9-d94b-482a-9d1f-8082b3c0f003/dd4bf68f-1d45-43c7-adcb-99fe3c140eed.svg))
