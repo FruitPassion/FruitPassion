@@ -7,6 +7,6 @@ aucune
 
 ## Langages les plus utilisés cette année
 
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=fruitpassion&layout=compact&theme=dracula&hide_border=true&custom_title=Coding%20Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=fruitpassion&layout=compact&theme=dracula&hide_border=true&custom_title=Coding%6Stats)
 
 ![Footer_Image](https://imgur.com/5f4uRW6.png)
