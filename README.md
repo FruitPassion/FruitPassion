@@ -5,6 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 ![wakatime](https://wakatime.com/badge/user/b9d882a9-d94b-482a-9d1f-8082b3c0f003.svg)
+<a href="https://github.com/alwinw/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/FruitPassion/FruitPassion?label=profile%20updated&style=flat-square"></a>
 
 
 Développeur orienté backend
