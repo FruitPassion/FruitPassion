@@ -30,7 +30,7 @@ Datascience oriented dev
 ### Visual creation
 ![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,qt,figma)        
 
-## Most used languages since Frebruary
+## Most used languages since February
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=fruitpassion&layout=compact&theme=dracula&hide_border=true&langs_count=6&custom_title=Stats)
 
