@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-Datascience oriented dev
+Web oriented dev
 ---------------------------
 
 *   🌍  I'm based in Toulouse - France
@@ -19,10 +19,10 @@ Datascience oriented dev
 ## Skills 
 
 ### Scripting/Dev
-![My Skills](https://skillicons.dev/icons?i=py,js,bash,java,c)
+![My Skills](https://skillicons.dev/icons?i=py,js,bash,java,c,php)
 
 ### Database
-![My Skills](https://skillicons.dev/icons?i=sqlite,mysql)
+![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongo)
 
 ### Webdev
 ![My Skills](https://skillicons.dev/icons?i=html,css,flask,django,symfony)
@@ -32,6 +32,6 @@ Datascience oriented dev
 
 ## Most used languages since February
 
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=fruitpassion&layout=compact&theme=dracula&hide_border=true&langs_count=6&custom_title=Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=fruitpassion&layout=compact&theme=dracula&hide_border=true&langs_count=8&custom_title=Stats)
 
 ![Footer_Image](https://imgur.com/5f4uRW6.png)
