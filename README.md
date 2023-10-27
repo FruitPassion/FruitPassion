@@ -1,6 +1,3 @@
-![Header_Image](https://imgur.com/TMkhSXY.png)
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Boudin Raphael
 ======================================================================================================================================
 
@@ -38,4 +35,3 @@ Web oriented dev
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=fruitpassion&layout=compact&theme=dracula&hide_border=true&langs_count=8&custom_title=Stats)
 
-![Footer_Image](https://imgur.com/5f4uRW6.png)
