@@ -9,7 +9,7 @@ Web oriented dev
 ---------------------------
 
 *   🌍  I'm based in Toulouse - France
-*   ✉️  You can contact me at [boudinraphael.contact@gmail.com](mailto:boudinraphael.contact@gmail.com)
+*   ✉️  You can contact me at [raphael.boudin@protonmail.com](mailto:raphael.boudin@protonmail.com)
 *   🧠  I'm learning c++ and machine-learning 
 *   🤝  I'm open to collaborating on Web scrapping and Web developpement
 
@@ -18,7 +18,7 @@ Web oriented dev
 ### Scripting/Programming
 ![script-skills](https://skillicons.dev/icons?i=py,js,php,bash)
 
-![dev-skills](https://skillicons.dev/icons?i=java,c,cpp)
+![dev-skills](https://skillicons.dev/icons?i=java,cpp,c)
 
 ### Database
 ![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongo)
