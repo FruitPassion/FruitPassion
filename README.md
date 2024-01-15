@@ -10,8 +10,8 @@ Web oriented dev
 
 *   🌍  I'm based in Toulouse - France
 *   ✉️  You can contact me at [raphael.boudin@protonmail.com](mailto:raphael.boudin@protonmail.com)
+*   🤝  My [portfolio](https://fruitpassion.fr/)
 *   🧠  I'm learning c++ and machine-learning 
-*   🤝  I'm open to collaborating on Web scrapping and Web developpement
 
 ## Skills 
 
