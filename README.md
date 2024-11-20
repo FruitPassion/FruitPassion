@@ -19,7 +19,7 @@ Web oriented dev
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://n3m0.fr" target="_blank">
-      <img src="[https://imgur.com/HFbc2iB.gif](https://cdn.discordapp.com/attachments/1039196279420506193/1308796314825265172/my.gif?ex=673f3f0d&is=673ded8d&hm=15078ef73788b92ca53fb5b40c60f72922dbaf592448d47a1d211d82847f3444&)" title="gif" alt="gif" width=88 height=31>
+      <img src="https://imgur.com/He1fHJA.gif" title="gif" alt="gif" width=88 height=31>
   </a>
 </div>
 
