@@ -3,8 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![wakatime](https://wakatime.com/badge/user/b9d882a9-d94b-482a-9d1f-8082b3c0f003.svg) <a href="https://github.com/alwinw/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/FruitPassion/FruitPassion?label=profile%20updated&style=flat-square"></a>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) only
-
 Web oriented dev
 ---------------------------
 
@@ -12,19 +10,6 @@ Web oriented dev
 *   ✉️  You can contact me at [raphael.boudin@protonmail.com](mailto:raphael.boudin@protonmail.com)
 *   🤝  My [portfolio](https://fruitpassion.fr/)
 *   🧠  Learning about security and web deployment
-
-## Skills 
-
-### Scripting/Programming
-![script-skills](https://skillicons.dev/icons?i=py,js,php,bash)
-
-![dev-skills](https://skillicons.dev/icons?i=java,cpp,c)
-
-### Database
-![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongo)
-
-### Webdev
-![My Skills](https://skillicons.dev/icons?i=html,css,flask,django,symfony)
 
 ### Visual creation
 ![My Skills](https://skillicons.dev/icons?i=ae,pr,ps)  
