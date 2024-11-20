@@ -15,14 +15,17 @@ Web oriented dev
 ## Some cool websites
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://fruitpassion.fr" target="_blank" style="margin-right:5px">
-      <img src="https://imgur.com/HFbc2iB.gif" alt="gif" width=88 height=31>
-  </a>
   <a href="https://n3m0.fr" target="_blank" style="margin-right:5px">
       <img src="https://imgur.com/He1fHJA.gif" title="gif" alt="gif" width=88 height=31>
   </a>
   <a href="https://github.com/Eiior" target="_blank" style="margin-right:5px">
       <img src="https://imgur.com/KyfTTtZ.gif" title="gif" alt="gif" width=88 height=31>
+  </a>
+  <a href="https://fruitpassion.fr" target="_blank" style="margin-right:5px">
+      <img src="https://imgur.com/HFbc2iB.gif" alt="gif" width=88 height=31>
+  </a>
+  <a href="https://github.com/FruitPassion" target="_blank" style="margin-right:5px">
+      <img src="https://imgur.com/CySPgsa.gif" alt="gif" width=88 height=31>
   </a>
 </div>
 
