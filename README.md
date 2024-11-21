@@ -27,6 +27,10 @@ Web oriented dev
     <img src="https://imgur.com/tzeRvpD.gif" title="gif" alt="gif" width=88 height=31>
   </a>
 
+  <a href="https://github.com/CaNaRdEoS/" target="_blank" style="margin-right:5px">
+      <img src="https://imgur.com/b6v5kle.gif" title="gif" alt="gif" width=88 height=31>
+  </a>
+
   <a href="https://fruitpassion.fr" target="_blank" style="margin-right:5px">
       <img src="https://imgur.com/HFbc2iB.gif" alt="gif" width=88 height=31>
   </a>
