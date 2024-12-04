@@ -10,6 +10,7 @@ Web oriented dev
 
 *   🌍  I'm based in Toulouse - France
 *   🧠  Learning about websecurity and stuff
+*   🐱  Sober from Copilot since 04/11/2024 (still relapsing sometimes)
 *   ✉️  You can contact me at [raphael.boudin@protonmail.com](mailto:raphael.boudin@protonmail.com)
 
 ## Some cool websites
